@@ -1,0 +1,4714 @@
+canonical_identifier: bkk:krp/KR3ed037/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed037/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普濟方·嬰孩門
+  identifiers:
+    krp: KR3ed037
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed037.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 358, filename: KR3ed037_358-jc.yaml, hash: 'sha256:745ded4bfa6078b7375e3500c94bc0ec6ac761e2e2b04bbb3c4efbb528f6dc27'}
+  - {seq: 359, filename: KR3ed037_359-jc.yaml, hash: 'sha256:33f2511ff135bedd952ec6cebd4c982dbd33473f71600fa1f837f06b159a6a45'}
+  - {seq: 360, filename: KR3ed037_360-jc.yaml, hash: 'sha256:f350998a4938f9f761b846221768638a8f87cd37d7823cb906776b3c681aaa40'}
+  - {seq: 361, filename: KR3ed037_361-jc.yaml, hash: 'sha256:a8305c8024fe545ecffb3052bbe7386bc706267589d45b89f01bc684b787e6b9'}
+  - {seq: 362, filename: KR3ed037_362-jc.yaml, hash: 'sha256:088fd4ebe2bb3c4b61649f39b483532f9cd3914bc6d260472ceee31fab14a697'}
+  - {seq: 363, filename: KR3ed037_363-jc.yaml, hash: 'sha256:d11646406201cf0303f8fb117b7c37c9fe38482be3cdaf579b95999db8c6bc5c'}
+  - {seq: 364, filename: KR3ed037_364-jc.yaml, hash: 'sha256:71f805487e9f17308d400d1b2df6a510f24fccde920a5e08056508fd7a6977f8'}
+  - {seq: 365, filename: KR3ed037_365-jc.yaml, hash: 'sha256:ce49bd7eab5a5e91f81f0fde9060b36cf75dfd6dd1a2fda4ca0010b949d4eea7'}
+  - {seq: 366, filename: KR3ed037_366-jc.yaml, hash: 'sha256:859641b6ff06e7fa1f77a5c3fd9656535930e6e3d58baad6b83b8406b72aa15f'}
+  - {seq: 367, filename: KR3ed037_367-jc.yaml, hash: 'sha256:746bd7a09abd18bf8048e06b8122925b39153c8591145fe58600d5a3f9a29bad'}
+  - {seq: 368, filename: KR3ed037_368-jc.yaml, hash: 'sha256:5b606b378e4076a13aaec6cc02e7ce6b23a9ab2c500b0bf7e88f09514e20160d'}
+  - {seq: 369, filename: KR3ed037_369-jc.yaml, hash: 'sha256:fe3d0ce5a3e9d6401fb731cee7651ea4779c4b4dea61d40dda3ceae71f31c594'}
+  - {seq: 370, filename: KR3ed037_370-jc.yaml, hash: 'sha256:4fa41b9968a012f071d22f6d2eef90df82de0c5cb9ebf9bfd553c76240a48a8b'}
+  - {seq: 371, filename: KR3ed037_371-jc.yaml, hash: 'sha256:b3f2461e65b86cc17fedf2faad38e631e9450a16d9aa365845160f4b9ad5ba35'}
+  - {seq: 372, filename: KR3ed037_372-jc.yaml, hash: 'sha256:28070e607304de10ce9079ee922985fb0bde46422b8fc4d2112e3fb572655b8f'}
+  - {seq: 373, filename: KR3ed037_373-jc.yaml, hash: 'sha256:e24bd82ee379c49b0d2aecd213d04bb711a668b4cc03a5bfa293d0ec15f73ea2'}
+  - {seq: 374, filename: KR3ed037_374-jc.yaml, hash: 'sha256:251a11e48cae3f37f15e86faa3839b56b539f84623da9854c9146fdd235fa9fa'}
+  - {seq: 375, filename: KR3ed037_375-jc.yaml, hash: 'sha256:867cfdfb3acd782748ce167a20b5d1db115f6f441dea74aec46d16cf2d48d308'}
+  - {seq: 376, filename: KR3ed037_376-jc.yaml, hash: 'sha256:a0ed64644b6c150b2d5ec02b25bdda516b7921ee0e1dc911856811babb968859'}
+  - {seq: 377, filename: KR3ed037_377-jc.yaml, hash: 'sha256:be7399ce4ca826d764f13b09d9e8bff4468aa933fc418a1ea29b114c0dfb3084'}
+  - {seq: 378, filename: KR3ed037_378-jc.yaml, hash: 'sha256:e662d13fc2898506f543251527a3a46ffe6aa950edfa70ce5a386d0bcc5e9298'}
+  - {seq: 379, filename: KR3ed037_379-jc.yaml, hash: 'sha256:c6fe7a46dd275ae2904a9139cc655cc2dd754d5411e302c5b7f316cc466b978e'}
+  - {seq: 380, filename: KR3ed037_380-jc.yaml, hash: 'sha256:f490ccc429669757ece85715d38c694b448afa2d3c954f42df4e25df0e0e3669'}
+  - {seq: 381, filename: KR3ed037_381-jc.yaml, hash: 'sha256:fd0fb57eb990a3ed565e793647f916668a9c0114c2b897d4eb690d70eb64f9b3'}
+  - {seq: 382, filename: KR3ed037_382-jc.yaml, hash: 'sha256:7d72b42d34db28a71226356c0ab7411625ae7003851aa1ae636492fa26fe7ce7'}
+  - {seq: 383, filename: KR3ed037_383-jc.yaml, hash: 'sha256:39f6b18dd2e8ff53ac8a519f2a1f50d14111859fdf0ddf998e7a2fc8b88fe9f4'}
+  - {seq: 384, filename: KR3ed037_384-jc.yaml, hash: 'sha256:472cdc2fa3f389d3cd93f0fd336ac65333415f7b4e134a415490e8a111656e95'}
+  - {seq: 385, filename: KR3ed037_385-jc.yaml, hash: 'sha256:bc3c882b7e8ebd50fbdee77a51237ea19e97ed9fb3a38cf3fad3f36b745c33c4'}
+  - {seq: 386, filename: KR3ed037_386-jc.yaml, hash: 'sha256:df2520e9c4c5c3e31e170e2a908ecd429655e2ff58885f90e5486541ac912f23'}
+  - {seq: 387, filename: KR3ed037_387-jc.yaml, hash: 'sha256:d0ba95831dd054a5cbd037ea9ab9175c4daa74ea589e372675588b36c04451c0'}
+  - {seq: 388, filename: KR3ed037_388-jc.yaml, hash: 'sha256:bb70bbfccfd2cccc25fa7425220b256af1263b68f8b78e5c3386a5acdeb0d2bf'}
+  - {seq: 389, filename: KR3ed037_389-jc.yaml, hash: 'sha256:f6e1c6afc4c903dcfc90827abd637f92b31b3c3f4c758e5263025aa5ad2fcf34'}
+  - {seq: 390, filename: KR3ed037_390-jc.yaml, hash: 'sha256:949b84ada8ac279d86be781791cf69a7a6428303e09c1317c8b016de2880b2f1'}
+  - {seq: 391, filename: KR3ed037_391-jc.yaml, hash: 'sha256:6fa5054941ffedbfc7b4c34fc4df3a5751dace6c745f6703dc0de32b2ea4bbe1'}
+  - {seq: 392, filename: KR3ed037_392-jc.yaml, hash: 'sha256:c5e995fab8e3fb88c85aa2c7d0b99e2d61bc968bd3f86449f1c714b026f8ed4e'}
+  - {seq: 393, filename: KR3ed037_393-jc.yaml, hash: 'sha256:798ab6fd5b604b02ab6249273709e397c43304d86bce579183019250103b02ec'}
+  - {seq: 394, filename: KR3ed037_394-jc.yaml, hash: 'sha256:5bceee1c9323ab6857e78dcb9d26186d31f6b856594d7dd36f1eba3ce14350e5'}
+  - {seq: 395, filename: KR3ed037_395-jc.yaml, hash: 'sha256:8180bdf47de41652f8288743d96ec89c7b57f5b935628633e47051af67443062'}
+  - {seq: 396, filename: KR3ed037_396-jc.yaml, hash: 'sha256:b9f0f9442d40d6470e404ad8b58defe03618173ba64ca16f6a92d30c5c255157'}
+  - {seq: 397, filename: KR3ed037_397-jc.yaml, hash: 'sha256:3452b48e7c6ed6ed33598324359dbfcb801cd27da6f8238f436ff16bd1c1d6e0'}
+  - {seq: 398, filename: KR3ed037_398-jc.yaml, hash: 'sha256:ef4fccf6cde1a354c78347e8dcc5884f1d58f5baeff8b2cb29c234a16eb9dcad'}
+  - {seq: 399, filename: KR3ed037_399-jc.yaml, hash: 'sha256:a3b7e69d40b116179ff51afaeb3d0be79d95b638305adbb29d48ccf18053ba62'}
+  - {seq: 400, filename: KR3ed037_400-jc.yaml, hash: 'sha256:7531ba03c4f96d7e3c282cc4695968678138732d7ee871a3c59e20bd83bbbc75'}
+  - {seq: 401, filename: KR3ed037_401-jc.yaml, hash: 'sha256:f1e824fb7885e5ef79ae95908059a241cae68da3c6aa445f146aa34cd4effa35'}
+  - {seq: 402, filename: KR3ed037_402-jc.yaml, hash: 'sha256:8038cce2b1237fb858a0aca67bbdb88a42503d810cb9df6ddf1f9452343726af'}
+  - {seq: 403, filename: KR3ed037_403-jc.yaml, hash: 'sha256:79d9292b6f8372ac8dcc0e4678d1cca16f905af3035277e3f3827ca0842353ba'}
+  - {seq: 404, filename: KR3ed037_404-jc.yaml, hash: 'sha256:af723a58556ade2f3ca8ebfeb6d5025c55e92707daba443595b58d03dc001f8a'}
+  - {seq: 405, filename: KR3ed037_405-jc.yaml, hash: 'sha256:31ce5a10fc8dfa16bf24866ccc716fd3a5040b4c062428f197b453f427e4499a'}
+  - {seq: 406, filename: KR3ed037_406-jc.yaml, hash: 'sha256:f6d5697898b26971aaf985d0d050925c0334b11640c151e616029596db42ef7d'}
+  - {seq: 407, filename: KR3ed037_407-jc.yaml, hash: 'sha256:24032f731e678c41d05bbfd796b04fd3c85d0410a6e1e39a277475b34be148b2'}
+  - {seq: 408, filename: KR3ed037_408-jc.yaml, hash: 'sha256:a21295a7e9fbff9a20c89508cb67890e58ceacd3e17888562adf7f641692160d'}
+  markers:
+  - {seq: 358, role: markers, filename: assets/KR3ed037_358-jc.markers.yaml, hash: 'sha256:c264d8673fa475bdd4eedf489f328e955b23fa26318f501add9d71f03d3d4e28'}
+  - {seq: 359, role: markers, filename: assets/KR3ed037_359-jc.markers.yaml, hash: 'sha256:a12260d933dd595ee0f1b8c94d41def466b0231db6b040f5fa0ed2ba2672fa02'}
+  - {seq: 360, role: markers, filename: assets/KR3ed037_360-jc.markers.yaml, hash: 'sha256:b0251a1a4833ccc6f71169f9551042b5094d6e4c351e7cfff316e79820eaef71'}
+  - {seq: 361, role: markers, filename: assets/KR3ed037_361-jc.markers.yaml, hash: 'sha256:5f1bfa04d47488fb3ed2e0d6120b19bdd62d62cb7cd3f2401b2fd633dc7586eb'}
+  - {seq: 362, role: markers, filename: assets/KR3ed037_362-jc.markers.yaml, hash: 'sha256:a7d05e2bbc5b18862ccc5f2aac19a9db5acc46fe555726b81f2d5c0fab81ad28'}
+  - {seq: 363, role: markers, filename: assets/KR3ed037_363-jc.markers.yaml, hash: 'sha256:ebc468ae5b125240255667c51b8f7a9905bd534a04abdea877d1534783c6e207'}
+  - {seq: 364, role: markers, filename: assets/KR3ed037_364-jc.markers.yaml, hash: 'sha256:fee6c26549134066dbdd3d0d9226d92b037b226a7c959a9f7e22f5bf637745e4'}
+  - {seq: 365, role: markers, filename: assets/KR3ed037_365-jc.markers.yaml, hash: 'sha256:529c5f3cb0a66e677554922a8494c2fb912f399d75907b795d64042e799c39ef'}
+  - {seq: 366, role: markers, filename: assets/KR3ed037_366-jc.markers.yaml, hash: 'sha256:8b1b07b700d1a76bb58ff2456a71899eb9dc7063129fc4a90642e0dc815766db'}
+  - {seq: 367, role: markers, filename: assets/KR3ed037_367-jc.markers.yaml, hash: 'sha256:60eed88ebc44c4f5a3599fdb5485e7866c30ca148dabdbb6d108b13311130d7f'}
+  - {seq: 368, role: markers, filename: assets/KR3ed037_368-jc.markers.yaml, hash: 'sha256:49661e9adac0145d08134a29e44ecfe6feae10b335e9ccd078b423c6d5b39752'}
+  - {seq: 369, role: markers, filename: assets/KR3ed037_369-jc.markers.yaml, hash: 'sha256:dcf1eb01e11edd94355b0eebf1ea379421deffb16d74bcb40a86c42fb842b767'}
+  - {seq: 370, role: markers, filename: assets/KR3ed037_370-jc.markers.yaml, hash: 'sha256:015a8653227f18ae03fe2ff34b4be69663cad18ca9485e8cf64c480d85eadebf'}
+  - {seq: 371, role: markers, filename: assets/KR3ed037_371-jc.markers.yaml, hash: 'sha256:bc03258c28a960e52e823e4c19f81369174a3d1a58cfbe27ce7b5444655eb3a7'}
+  - {seq: 372, role: markers, filename: assets/KR3ed037_372-jc.markers.yaml, hash: 'sha256:37398d3ce9204661aac22f4d748dd57c8b6c16f28ddb1030119b04aa140aee11'}
+  - {seq: 373, role: markers, filename: assets/KR3ed037_373-jc.markers.yaml, hash: 'sha256:a54ad6638b86071e5c3215be0b58a8939d7e00445ff8b7042f3c7c59747dc5c5'}
+  - {seq: 374, role: markers, filename: assets/KR3ed037_374-jc.markers.yaml, hash: 'sha256:112231078ba92c06a39b7fb108d55e7d7adf56715c5b3b3fbcf6d6dd9c633fba'}
+  - {seq: 375, role: markers, filename: assets/KR3ed037_375-jc.markers.yaml, hash: 'sha256:feeca88308e4b691ee8e2d8018f20fe811839a6e182b9fb8419f1421ba92d54b'}
+  - {seq: 376, role: markers, filename: assets/KR3ed037_376-jc.markers.yaml, hash: 'sha256:49b9438ca2b934289d37dc171f968b120432db5d7771fd0e776a515f44084692'}
+  - {seq: 377, role: markers, filename: assets/KR3ed037_377-jc.markers.yaml, hash: 'sha256:ffd1dec237604bb7ce03c8efe4a8e9ce0a066f013d6ebe65dd72d2552db2a389'}
+  - {seq: 378, role: markers, filename: assets/KR3ed037_378-jc.markers.yaml, hash: 'sha256:7c996ad49fb559a7094c992dbd2e32661bbd8f1722bf5e7916cf0deca633bcc9'}
+  - {seq: 379, role: markers, filename: assets/KR3ed037_379-jc.markers.yaml, hash: 'sha256:a22bff81297877f3e4c698e1a8acc0f34f5ca49bae0e456dec8c198e080f5b4b'}
+  - {seq: 380, role: markers, filename: assets/KR3ed037_380-jc.markers.yaml, hash: 'sha256:4bab7e5213acddc09ca46176af3e8c7569397669862b097da6cc7e80ada4f0e0'}
+  - {seq: 381, role: markers, filename: assets/KR3ed037_381-jc.markers.yaml, hash: 'sha256:bad44ea97d2c346aafe87aa93dd42e413f08289ef6d635d6a1c3fee31c2e4544'}
+  - {seq: 382, role: markers, filename: assets/KR3ed037_382-jc.markers.yaml, hash: 'sha256:a7c3342bf009ba792e46f3ec57a258425fc47bf204ef520c3a461c2f1ca6819c'}
+  - {seq: 383, role: markers, filename: assets/KR3ed037_383-jc.markers.yaml, hash: 'sha256:8729c4b0e960749ee898907e651fbe4e4f2af058bc4ebe36fe77e67195521549'}
+  - {seq: 384, role: markers, filename: assets/KR3ed037_384-jc.markers.yaml, hash: 'sha256:7c9558901d4f9f28f099ffa428ffe5277c452b7e91a59c1d308b336183aa04dd'}
+  - {seq: 385, role: markers, filename: assets/KR3ed037_385-jc.markers.yaml, hash: 'sha256:16d203617b7b910ebb962589a7b3084af2c7110f789a1cc2c703a8800c795988'}
+  - {seq: 386, role: markers, filename: assets/KR3ed037_386-jc.markers.yaml, hash: 'sha256:58cd8982579451665b3788c313291809a408c3115b59498a3c44d26d645b0c4a'}
+  - {seq: 387, role: markers, filename: assets/KR3ed037_387-jc.markers.yaml, hash: 'sha256:d4746fb9d0e299429290f6bc4cfb99434576888dba21d00ffef69dc8bce57f93'}
+  - {seq: 388, role: markers, filename: assets/KR3ed037_388-jc.markers.yaml, hash: 'sha256:ade4d9afd25ea6c7d6a60a1526cf88f99be8d1eef5321a99040f4a31356ea96d'}
+  - {seq: 389, role: markers, filename: assets/KR3ed037_389-jc.markers.yaml, hash: 'sha256:732e5343650b05d440d4cce20692ec3883289ff8174242f578a48c5ef7d85e74'}
+  - {seq: 390, role: markers, filename: assets/KR3ed037_390-jc.markers.yaml, hash: 'sha256:17f20472b5f3aefdd6473b3cbce06dae11a83fe2af1c51b020b9bc204a61a174'}
+  - {seq: 391, role: markers, filename: assets/KR3ed037_391-jc.markers.yaml, hash: 'sha256:f5f755c82f9e9c66f1564a1963a68cd04e7e9835ff526bbc06d2558459ed59ee'}
+  - {seq: 392, role: markers, filename: assets/KR3ed037_392-jc.markers.yaml, hash: 'sha256:9e265c03bdca247cb3d526e22073ae43073234d40d7a6784bbb949790c7dd5ae'}
+  - {seq: 393, role: markers, filename: assets/KR3ed037_393-jc.markers.yaml, hash: 'sha256:804f6dc7cf17bff96b91ffd5f93e17953e1bcfc25c1fe8d69c830afe1a957b3c'}
+  - {seq: 394, role: markers, filename: assets/KR3ed037_394-jc.markers.yaml, hash: 'sha256:a494e24093b03437b4afcd354cef3f08784aff27f4a3aade7c0332392ede9e5b'}
+  - {seq: 395, role: markers, filename: assets/KR3ed037_395-jc.markers.yaml, hash: 'sha256:eb29481934ead97dd64bf248d890d60ed5e82080eef9ca59f8ef8ebae6b3eede'}
+  - {seq: 396, role: markers, filename: assets/KR3ed037_396-jc.markers.yaml, hash: 'sha256:6305cae7debc13c713c52fc777dd0520ae33d385721fcfbe8d88dd39d230417b'}
+  - {seq: 397, role: markers, filename: assets/KR3ed037_397-jc.markers.yaml, hash: 'sha256:348529c1d86f74bb51b86096d87411c3a9649579325f7244ef1000c4c58a801e'}
+  - {seq: 398, role: markers, filename: assets/KR3ed037_398-jc.markers.yaml, hash: 'sha256:7bd38dc70b605d8d0e2f6884cbfa4499e9126bb20993b845a8791b564c88edbb'}
+  - {seq: 399, role: markers, filename: assets/KR3ed037_399-jc.markers.yaml, hash: 'sha256:297d318fdef1e4b2ee391bb199bd4a8ac046e12717139a2b26110f03d2920a1c'}
+  - {seq: 400, role: markers, filename: assets/KR3ed037_400-jc.markers.yaml, hash: 'sha256:a58890e66766ec870841a13448c061f063611c8e9117f7cd1e419e83c3bcbf07'}
+  - {seq: 401, role: markers, filename: assets/KR3ed037_401-jc.markers.yaml, hash: 'sha256:430417383f265f4728368592eccf5a7c3b2741dd056c791916fe38d9d74253fe'}
+  - {seq: 402, role: markers, filename: assets/KR3ed037_402-jc.markers.yaml, hash: 'sha256:ffd2d5d0d15228f9d792ca7fac03b38e8597856abecc468f8d6082038712c31e'}
+  - {seq: 403, role: markers, filename: assets/KR3ed037_403-jc.markers.yaml, hash: 'sha256:4f551132ecc3d13060750ac418f486692b7ebc2245e69516cb92a070951ee879'}
+  - {seq: 404, role: markers, filename: assets/KR3ed037_404-jc.markers.yaml, hash: 'sha256:c8c410381bf4fe44ee24429d6b09824d2e2f0f2512e0a74b39787bd6ee400a53'}
+  - {seq: 405, role: markers, filename: assets/KR3ed037_405-jc.markers.yaml, hash: 'sha256:8ab386e301b2f3423cbaa7e692642e8803eda3d493ef6dd9b70ffe1f9c2b346f'}
+  - {seq: 406, role: markers, filename: assets/KR3ed037_406-jc.markers.yaml, hash: 'sha256:cca3262b4aa4982aee1a422924f3639040e7989e4dfca8da3c0f80253d7f4f8d'}
+  - {seq: 407, role: markers, filename: assets/KR3ed037_407-jc.markers.yaml, hash: 'sha256:2c965b846537388ae9c4590a5ed2a86fe029a3fc0b242e330bb3b029e53d4ee3'}
+  - {seq: 408, role: markers, filename: assets/KR3ed037_408-jc.markers.yaml, hash: 'sha256:f70d7f064f5c4177771f070df58fbda4d9c28e61c1da0bc1836983cd9651f9a8'}
+table_of_contents:
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.h1s1
+    span:
+    - body
+    - 0
+    - 17669
+  label: 卷三百五十八
+  type: section
+  level: 1
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2d2
+    span:
+    - body
+    - 6
+    - 17669
+  label: 嬰孩門
+  type: section
+  level: 2
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d2
+    span:
+    - body
+    - 9
+    - 2640
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d3
+    span:
+    - body
+    - 2640
+    - 4974
+  label: 辨形色附論
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d4
+    span:
+    - body
+    - 4974
+    - 5228
+  label: 小兒面部氣色
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d5
+    span:
+    - body
+    - 5228
+    - 5965
+  label: 分定五位所屬
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d6
+    span:
+    - body
+    - 5965
+    - 6629
+  label: 面上諸候察形歌
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d7
+    span:
+    - body
+    - 6629
+    - 6910
+  label: 小兒面部氣色總觀
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d8
+    span:
+    - body
+    - 6910
+    - 7038
+  label: 虎口三關指掌
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d9
+    span:
+    - body
+    - 7038
+    - 7387
+  label: 活幼口議詩
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d10
+    span:
+    - body
+    - 7387
+    - 7685
+  label: 三關詩
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d11
+    span:
+    - body
+    - 7685
+    - 7957
+  label: 三關紋色形狀
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d12
+    span:
+    - body
+    - 7957
+    - 8546
+  label: 三關指紋要訣
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d13
+    span:
+    - body
+    - 8546
+    - 8989
+  label: 虎口手紋脈訣
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d14
+    span:
+    - body
+    - 8989
+    - 9115
+  label: 指脈紋色樣
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d15
+    span:
+    - body
+    - 9115
+    - 9887
+  label: 脈指訣歌
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d16
+    span:
+    - body
+    - 9887
+    - 10434
+  label: 驗五臟氣絕證
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d17
+    span:
+    - body
+    - 10434
+    - 16634
+  label: 辨表裡諸證及治法
+  type: section
+  level: 3
+- ref:
+    seq: 358
+    marker_id: KR3ed037_jc_358-d2.d2d18
+    span:
+    - body
+    - 16634
+    - 17669
+  label: 五臟標本
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.h1s1
+    span:
+    - body
+    - 0
+    - 24697
+  label: 卷三百五十九
+  type: section
+  level: 1
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3d2
+    span:
+    - body
+    - 6
+    - 24697
+  label: 嬰孩門
+  type: section
+  level: 2
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d2
+    span:
+    - body
+    - 9
+    - 251
+  label: 五臟伏敵喜傷附論
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d3
+    span:
+    - body
+    - 251
+    - 1315
+  label: 五位分部定位附論
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d4
+    span:
+    - body
+    - 1315
+    - 3041
+  label: 辨小兒脈法
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d5
+    span:
+    - body
+    - 3041
+    - 4815
+  label: 形候驗病詩
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d6
+    span:
+    - body
+    - 4815
+    - 6810
+  label: 湯氏雜病形證歌
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d7
+    span:
+    - body
+    - 6810
+    - 11647
+  label: 病症疑難
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d8
+    span:
+    - body
+    - 11647
+    - 15560
+  label: 證候發端
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d9
+    span:
+    - body
+    - 15560
+    - 17667
+  label: 審小兒得病之源
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d10
+    span:
+    - body
+    - 17667
+    - 21617
+  label: 病源歌
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d11
+    span:
+    - body
+    - 21617
+    - 21820
+  label: 湯氏惡候形證歌
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d12
+    span:
+    - body
+    - 21820
+    - 22851
+  label: 不治候歌
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d13
+    span:
+    - body
+    - 22851
+    - 22920
+  label: 不治證
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d14
+    span:
+    - body
+    - 22920
+    - 23230
+  label: 聽聲音驗病
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d15
+    span:
+    - body
+    - 23230
+    - 23347
+  label: 辨疑
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d16
+    span:
+    - body
+    - 23347
+    - 23674
+  label: 撮要
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d17
+    span:
+    - body
+    - 23674
+    - 23769
+  label: 論髮際穴
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d18
+    span:
+    - body
+    - 23769
+    - 23836
+  label: 灌藥服藥法
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d19
+    span:
+    - body
+    - 23836
+    - 24431
+  label: 論腦麝銀粉巴硝等不可輕用
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d20
+    span:
+    - body
+    - 24431
+    - 24576
+  label: 小兒四時用藥拔粹
+  type: section
+  level: 3
+- ref:
+    seq: 359
+    marker_id: KR3ed037_jc_359-d3.d2d21
+    span:
+    - body
+    - 24576
+    - 24697
+  label: 新生兒戒灸
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.h1s1
+    span:
+    - body
+    - 0
+    - 16884
+  label: 卷三百六十
+  type: section
+  level: 1
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4d2
+    span:
+    - body
+    - 5
+    - 16884
+  label: 嬰孩初生門
+  type: section
+  level: 2
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d2
+    span:
+    - body
+    - 10
+    - 12
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d3
+    span:
+    - body
+    - 12
+    - 152
+  label: 辨小兒初受氣
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d4
+    span:
+    - body
+    - 152
+    - 527
+  label: 相貌壽法
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d5
+    span:
+    - body
+    - 527
+    - 2289
+  label: 論初生諸疾並治法
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d6
+    span:
+    - body
+    - 2289
+    - 4336
+  label: 論新生將護法
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d7
+    span:
+    - body
+    - 4336
+    - 4598
+  label: 論乳兒法
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d8
+    span:
+    - body
+    - 4598
+    - 5652
+  label: 乳生病雜治
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d9
+    span:
+    - body
+    - 5652
+    - 7269
+  label: 初生方法
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d10
+    span:
+    - body
+    - 7269
+    - 7552
+  label: 小兒面部氣色總觀
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d11
+    span:
+    - body
+    - 7552
+    - 9332
+  label: 虎口三關指掌
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d12
+    span:
+    - body
+    - 9332
+    - 9455
+  label: 孩子要用藥物
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d13
+    span:
+    - body
+    - 9455
+    - 11654
+  label: 藏衣法
+  type: section
+  level: 3
+- ref:
+    seq: 360
+    marker_id: KR3ed037_jc_360-d4.d2d14
+    span:
+    - body
+    - 11654
+    - 16884
+  label: 臍風撮口附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.h1s1
+    span:
+    - body
+    - 0
+    - 24207
+  label: 卷三百六十一
+  type: section
+  level: 1
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5d2
+    span:
+    - body
+    - 6
+    - 24207
+  label: 嬰兒初生門
+  type: section
+  level: 2
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d2
+    span:
+    - body
+    - 11
+    - 1244
+  label: 胎寒附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d3
+    span:
+    - body
+    - 1244
+    - 1781
+  label: 胎熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d4
+    span:
+    - body
+    - 1781
+    - 2435
+  label: 胎驚附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d5
+    span:
+    - body
+    - 2435
+    - 5858
+  label: 胎風附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d6
+    span:
+    - body
+    - 5858
+    - 6211
+  label: 胎黃附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d7
+    span:
+    - body
+    - 6211
+    - 10275
+  label: 變蒸附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d8
+    span:
+    - body
+    - 10275
+    - 13639
+  label: 驚啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d9
+    span:
+    - body
+    - 13639
+    - 17332
+  label: 夜啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d10
+    span:
+    - body
+    - 17332
+    - 18081
+  label: 躽啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d11
+    span:
+    - body
+    - 18081
+    - 19743
+  label: 盤腸氣瘹啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d12
+    span:
+    - body
+    - 19743
+    - 20773
+  label: 驚風內瘹啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d13
+    span:
+    - body
+    - 20773
+    - 21772
+  label: 胎寒胃冷啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d14
+    span:
+    - body
+    - 21772
+    - 22029
+  label: 胎熱伏心啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d15
+    span:
+    - body
+    - 22029
+    - 22507
+  label: 邪干心痛啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d16
+    span:
+    - body
+    - 22507
+    - 23218
+  label: 心腹痛啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d17
+    span:
+    - body
+    - 23218
+    - 23374
+  label: 乳食作痛啼附論
+  type: section
+  level: 3
+- ref:
+    seq: 361
+    marker_id: KR3ed037_jc_361-d5.d2d18
+    span:
+    - body
+    - 23374
+    - 24207
+  label: 小兒不吃乳附論
+  type: section
+  level: 3
+- ref:
+    seq: 362
+    marker_id: KR3ed037_jc_362-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5521
+  label: 卷三百六十二
+  type: section
+  level: 1
+- ref:
+    seq: 362
+    marker_id: KR3ed037_jc_362-d6d2
+    span:
+    - body
+    - 6
+    - 5521
+  label: 嬰孩五臟門
+  type: section
+  level: 2
+- ref:
+    seq: 362
+    marker_id: KR3ed037_jc_362-d6.d2d2
+    span:
+    - body
+    - 11
+    - 859
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 362
+    marker_id: KR3ed037_jc_362-d6.d2d3
+    span:
+    - body
+    - 859
+    - 1251
+  label: 心臟附論
+  type: section
+  level: 3
+- ref:
+    seq: 362
+    marker_id: KR3ed037_jc_362-d6.d2d4
+    span:
+    - body
+    - 1251
+    - 1930
+  label: 肝臟附論
+  type: section
+  level: 3
+- ref:
+    seq: 362
+    marker_id: KR3ed037_jc_362-d6.d2d5
+    span:
+    - body
+    - 1930
+    - 3957
+  label: 脾臟附論
+  type: section
+  level: 3
+- ref:
+    seq: 362
+    marker_id: KR3ed037_jc_362-d6.d2d6
+    span:
+    - body
+    - 3957
+    - 4567
+  label: 肺臟附論
+  type: section
+  level: 3
+- ref:
+    seq: 362
+    marker_id: KR3ed037_jc_362-d6.d2d7
+    span:
+    - body
+    - 4567
+    - 5521
+  label: 腎臟附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.h1s1
+    span:
+    - body
+    - 0
+    - 16254
+  label: 卷三百六十三
+  type: section
+  level: 1
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7d2
+    span:
+    - body
+    - 6
+    - 16254
+  label: 嬰孩頭眼耳鼻門
+  type: section
+  level: 2
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d2
+    span:
+    - body
+    - 13
+    - 5140
+  label: 頭瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d3
+    span:
+    - body
+    - 5140
+    - 5948
+  label: 頭不生髮附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d4
+    span:
+    - body
+    - 5948
+    - 8281
+  label: 解顱附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d5
+    span:
+    - body
+    - 8281
+    - 8895
+  label: 囟填陷附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d6
+    span:
+    - body
+    - 8895
+    - 9492
+  label: 囟風傷寒附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d7
+    span:
+    - body
+    - 9492
+    - 9877
+  label: 眉瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d8
+    span:
+    - body
+    - 9877
+    - 10639
+  label: 眼目附總論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d9
+    span:
+    - body
+    - 10639
+    - 11644
+  label: 雀目附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d10
+    span:
+    - body
+    - 11644
+    - 12878
+  label: 治眼胎赤痛附論
+  type: section
+  level: 3
+- ref:
+    seq: 363
+    marker_id: KR3ed037_jc_363-d7.d2d11
+    span:
+    - body
+    - 12878
+    - 16254
+  label: 目赤腫痛附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.h1s1
+    span:
+    - body
+    - 0
+    - 15007
+  label: 卷三百六十四
+  type: section
+  level: 1
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8d2
+    span:
+    - body
+    - 6
+    - 15007
+  label: 嬰孩頭眼耳鼻門
+  type: section
+  level: 2
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d2
+    span:
+    - body
+    - 13
+    - 2939
+  label: 眼生翳膜附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d3
+    span:
+    - body
+    - 2939
+    - 3556
+  label: 目偏視通睛附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d4
+    span:
+    - body
+    - 3556
+    - 3829
+  label: 眼瞼生贅附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d5
+    span:
+    - body
+    - 3829
+    - 4450
+  label: 青盲外障附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d6
+    span:
+    - body
+    - 4450
+    - 5408
+  label: 疳眼外障附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d7
+    span:
+    - body
+    - 5408
+    - 5864
+  label: 癍瘡入眼外障附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d8
+    span:
+    - body
+    - 5864
+    - 6880
+  label: 緣目生瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d9
+    span:
+    - body
+    - 6880
+    - 7251
+  label: 耳疾總論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d10
+    span:
+    - body
+    - 7251
+    - 7846
+  label: 耳聾附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d11
+    span:
+    - body
+    - 7846
+    - 9496
+  label: 聤耳附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d12
+    span:
+    - body
+    - 9496
+    - 9890
+  label: 耳瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d13
+    span:
+    - body
+    - 9890
+    - 10450
+  label: 百蟲入耳
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d14
+    span:
+    - body
+    - 10450
+    - 11467
+  label: 鼻塞不通附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d15
+    span:
+    - body
+    - 11467
+    - 11817
+  label: 小兒鼻齆塞附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d16
+    span:
+    - body
+    - 11817
+    - 12494
+  label: 鼻衄附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d17
+    span:
+    - body
+    - 12494
+    - 13936
+  label: 小兒腦熱鼻乾無涕附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d18
+    span:
+    - body
+    - 13936
+    - 14564
+  label: 小兒鼻多濁涕附論
+  type: section
+  level: 3
+- ref:
+    seq: 364
+    marker_id: KR3ed037_jc_364-d8.d2d19
+    span:
+    - body
+    - 14564
+    - 15007
+  label: 鼻疳瘡
+  type: section
+  level: 3
+- ref:
+    seq: 365
+    marker_id: KR3ed037_jc_365-d9.h1s1
+    span:
+    - body
+    - 0
+    - 10635
+  label: 卷三百六十五
+  type: section
+  level: 1
+- ref:
+    seq: 365
+    marker_id: KR3ed037_jc_365-d9d2
+    span:
+    - body
+    - 6
+    - 10635
+  label: 嬰孩唇舌口齒咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 365
+    marker_id: KR3ed037_jc_365-d9.d2d2
+    span:
+    - body
+    - 15
+    - 1129
+  label: 唇瘡等疾附論
+  type: section
+  level: 3
+- ref:
+    seq: 365
+    marker_id: KR3ed037_jc_365-d9.d2d3
+    span:
+    - body
+    - 1129
+    - 7622
+  label: 口瘡等疾附論
+  type: section
+  level: 3
+- ref:
+    seq: 365
+    marker_id: KR3ed037_jc_365-d9.d2d4
+    span:
+    - body
+    - 7622
+    - 10635
+  label: 舌腫等疾附論
+  type: section
+  level: 3
+- ref:
+    seq: 366
+    marker_id: KR3ed037_jc_366-d10.h1s1
+    span:
+    - body
+    - 0
+    - 10746
+  label: 卷三百六十六
+  type: section
+  level: 1
+- ref:
+    seq: 366
+    marker_id: KR3ed037_jc_366-d10d2
+    span:
+    - body
+    - 6
+    - 10746
+  label: 嬰孩唇舌口齒咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 366
+    marker_id: KR3ed037_jc_366-d10.d2d2
+    span:
+    - body
+    - 15
+    - 3125
+  label: 牙齒疼痛等疾附論
+  type: section
+  level: 3
+- ref:
+    seq: 366
+    marker_id: KR3ed037_jc_366-d10.d2d3
+    span:
+    - body
+    - 3125
+    - 5860
+  label: 咽喉等疾附論
+  type: section
+  level: 3
+- ref:
+    seq: 366
+    marker_id: KR3ed037_jc_366-d10.d2d4
+    span:
+    - body
+    - 5860
+    - 8823
+  label: 中風口噤附論
+  type: section
+  level: 3
+- ref:
+    seq: 366
+    marker_id: KR3ed037_jc_366-d10.d2d5
+    span:
+    - body
+    - 8823
+    - 10746
+  label: 語音不出等疾附論
+  type: section
+  level: 3
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11.h1s1
+    span:
+    - body
+    - 0
+    - 12963
+  label: 卷三百六十七
+  type: section
+  level: 1
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11d2
+    span:
+    - body
+    - 6
+    - 12963
+  label: 嬰孩諸風門
+  type: section
+  level: 2
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11.d2d2
+    span:
+    - body
+    - 11
+    - 1520
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11.d2d3
+    span:
+    - body
+    - 1520
+    - 6939
+  label: 中風附論
+  type: section
+  level: 3
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11.d2d4
+    span:
+    - body
+    - 6939
+    - 8346
+  label: 中風失音不能語附論
+  type: section
+  level: 3
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11.d2d5
+    span:
+    - body
+    - 8346
+    - 9507
+  label: 中風不隨附論
+  type: section
+  level: 3
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11.d2d6
+    span:
+    - body
+    - 9507
+    - 10169
+  label: 中風口喎斜僻附論
+  type: section
+  level: 3
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11.d2d7
+    span:
+    - body
+    - 10169
+    - 10825
+  label: 中風四肢拘攣附論
+  type: section
+  level: 3
+- ref:
+    seq: 367
+    marker_id: KR3ed037_jc_367-d11.d2d8
+    span:
+    - body
+    - 10825
+    - 12963
+  label: 中風痙病附論
+  type: section
+  level: 3
+- ref:
+    seq: 368
+    marker_id: KR3ed037_jc_368-d12.h1s1
+    span:
+    - body
+    - 0
+    - 21593
+  label: 卷三百六十八
+  type: section
+  level: 1
+- ref:
+    seq: 368
+    marker_id: KR3ed037_jc_368-d12d2
+    span:
+    - body
+    - 6
+    - 21593
+  label: 嬰孩傷寒門
+  type: section
+  level: 2
+- ref:
+    seq: 368
+    marker_id: KR3ed037_jc_368-d12.d2d2
+    span:
+    - body
+    - 11
+    - 15974
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 368
+    marker_id: KR3ed037_jc_368-d12.d2d3
+    span:
+    - body
+    - 15974
+    - 16952
+  label: 傷寒咳嗽附論
+  type: section
+  level: 3
+- ref:
+    seq: 368
+    marker_id: KR3ed037_jc_368-d12.d2d4
+    span:
+    - body
+    - 16952
+    - 17562
+  label: 傷寒餘熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 368
+    marker_id: KR3ed037_jc_368-d12.d2d5
+    span:
+    - body
+    - 17562
+    - 18038
+  label: 傷寒熱渴附論
+  type: section
+  level: 3
+- ref:
+    seq: 368
+    marker_id: KR3ed037_jc_368-d12.d2d6
+    span:
+    - body
+    - 18038
+    - 18558
+  label: 傷寒挾實附論
+  type: section
+  level: 3
+- ref:
+    seq: 368
+    marker_id: KR3ed037_jc_368-d12.d2d7
+    span:
+    - body
+    - 18558
+    - 21593
+  label: 夾驚傷寒附論
+  type: section
+  level: 3
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13.h1s1
+    span:
+    - body
+    - 0
+    - 16653
+  label: 卷三百六十九
+  type: section
+  level: 1
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13d2
+    span:
+    - body
+    - 6
+    - 16653
+  label: 嬰孩傷寒門
+  type: section
+  level: 2
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13.d2d2
+    span:
+    - body
+    - 11
+    - 3907
+  label: 夾食傷寒附論
+  type: section
+  level: 3
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13.d2d3
+    span:
+    - body
+    - 3907
+    - 5569
+  label: 時氣附論
+  type: section
+  level: 3
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13.d2d4
+    span:
+    - body
+    - 5569
+    - 6993
+  label: 傷風附論
+  type: section
+  level: 3
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13.d2d5
+    span:
+    - body
+    - 6993
+    - 13568
+  label: 瘟病附論
+  type: section
+  level: 3
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13.d2d6
+    span:
+    - body
+    - 13568
+    - 14849
+  label: 熱病附論
+  type: section
+  level: 3
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13.d2d7
+    span:
+    - body
+    - 14849
+    - 15701
+  label: 發黃附論
+  type: section
+  level: 3
+- ref:
+    seq: 369
+    marker_id: KR3ed037_jc_369-d13.d2d8
+    span:
+    - body
+    - 15701
+    - 16653
+  label: 傷暑附論
+  type: section
+  level: 3
+- ref:
+    seq: 370
+    marker_id: KR3ed037_jc_370-d14.h1s1
+    span:
+    - body
+    - 0
+    - 12880
+  label: 卷三百七十
+  type: section
+  level: 1
+- ref:
+    seq: 370
+    marker_id: KR3ed037_jc_370-d14d2
+    span:
+    - body
+    - 5
+    - 12880
+  label: 嬰孩驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 370
+    marker_id: KR3ed037_jc_370-d14.d2d2
+    span:
+    - body
+    - 10
+    - 12880
+  label: 急驚風附論
+  type: section
+  level: 3
+- ref:
+    seq: 371
+    marker_id: KR3ed037_jc_371-d15.h1s1
+    span:
+    - body
+    - 0
+    - 19239
+  label: 卷三百七十一
+  type: section
+  level: 1
+- ref:
+    seq: 371
+    marker_id: KR3ed037_jc_371-d15d2
+    span:
+    - body
+    - 6
+    - 19239
+  label: 嬰孩驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 371
+    marker_id: KR3ed037_jc_371-d15.d2d2
+    span:
+    - body
+    - 11
+    - 19239
+  label: 慢驚風附論
+  type: section
+  level: 3
+- ref:
+    seq: 372
+    marker_id: KR3ed037_jc_372-d16.h1s1
+    span:
+    - body
+    - 0
+    - 13737
+  label: 卷三百七十二
+  type: section
+  level: 1
+- ref:
+    seq: 372
+    marker_id: KR3ed037_jc_372-d16d2
+    span:
+    - body
+    - 6
+    - 13737
+  label: 嬰孩驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 372
+    marker_id: KR3ed037_jc_372-d16.d2d2
+    span:
+    - body
+    - 11
+    - 5427
+  label: 慢脾風附論
+  type: section
+  level: 3
+- ref:
+    seq: 372
+    marker_id: KR3ed037_jc_372-d16.d2d3
+    span:
+    - body
+    - 5427
+    - 5598
+  label: 慢肝風附論
+  type: section
+  level: 3
+- ref:
+    seq: 372
+    marker_id: KR3ed037_jc_372-d16.d2d4
+    span:
+    - body
+    - 5598
+    - 7870
+  label: 驚悸附論
+  type: section
+  level: 3
+- ref:
+    seq: 372
+    marker_id: KR3ed037_jc_372-d16.d2d5
+    span:
+    - body
+    - 7870
+    - 13737
+  label: 天瘹驚風附論
+  type: section
+  level: 3
+- ref:
+    seq: 373
+    marker_id: KR3ed037_jc_373-d17.h1s1
+    span:
+    - body
+    - 0
+    - 19466
+  label: 卷三百七十三
+  type: section
+  level: 1
+- ref:
+    seq: 373
+    marker_id: KR3ed037_jc_373-d17d2
+    span:
+    - body
+    - 6
+    - 19466
+  label: 嬰孩驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 373
+    marker_id: KR3ed037_jc_373-d17.d2d2
+    span:
+    - body
+    - 11
+    - 3985
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 373
+    marker_id: KR3ed037_jc_373-d17.d2d3
+    span:
+    - body
+    - 3985
+    - 19466
+  label: 一切驚風
+  type: section
+  level: 3
+- ref:
+    seq: 374
+    marker_id: KR3ed037_jc_374-d18.h1s1
+    span:
+    - body
+    - 0
+    - 15000
+  label: 卷三百七十四
+  type: section
+  level: 1
+- ref:
+    seq: 374
+    marker_id: KR3ed037_jc_374-d18d2
+    span:
+    - body
+    - 6
+    - 15000
+  label: 嬰孩驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 374
+    marker_id: KR3ed037_jc_374-d18.d2d2
+    span:
+    - body
+    - 11
+    - 15000
+  label: 一切驚風
+  type: section
+  level: 3
+- ref:
+    seq: 375
+    marker_id: KR3ed037_jc_375-d19.h1s1
+    span:
+    - body
+    - 0
+    - 18891
+  label: 卷三百七十五
+  type: section
+  level: 1
+- ref:
+    seq: 375
+    marker_id: KR3ed037_jc_375-d19d2
+    span:
+    - body
+    - 6
+    - 18891
+  label: 嬰孩驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 375
+    marker_id: KR3ed037_jc_375-d19.d2d2
+    span:
+    - body
+    - 11
+    - 18891
+  label: 急慢驚風附論
+  type: section
+  level: 3
+- ref:
+    seq: 376
+    marker_id: KR3ed037_jc_376-d20.h1s1
+    span:
+    - body
+    - 0
+    - 17444
+  label: 卷三百七十六
+  type: section
+  level: 1
+- ref:
+    seq: 376
+    marker_id: KR3ed037_jc_376-d20d2
+    span:
+    - body
+    - 6
+    - 17444
+  label: 嬰孩一切癇門
+  type: section
+  level: 2
+- ref:
+    seq: 376
+    marker_id: KR3ed037_jc_376-d20.d2d2
+    span:
+    - body
+    - 12
+    - 1311
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 376
+    marker_id: KR3ed037_jc_376-d20.d2d3
+    span:
+    - body
+    - 1311
+    - 4437
+  label: 候癇法
+  type: section
+  level: 3
+- ref:
+    seq: 376
+    marker_id: KR3ed037_jc_376-d20.d2d4
+    span:
+    - body
+    - 4437
+    - 17444
+  label: 一切癇
+  type: section
+  level: 3
+- ref:
+    seq: 377
+    marker_id: KR3ed037_jc_377-d21.h1s1
+    span:
+    - body
+    - 0
+    - 12521
+  label: 卷三百七十七
+  type: section
+  level: 1
+- ref:
+    seq: 377
+    marker_id: KR3ed037_jc_377-d21d2
+    span:
+    - body
+    - 6
+    - 12521
+  label: 嬰孩一切癇門
+  type: section
+  level: 2
+- ref:
+    seq: 377
+    marker_id: KR3ed037_jc_377-d21.d2d2
+    span:
+    - body
+    - 12
+    - 2181
+  label: 癲癇附論
+  type: section
+  level: 3
+- ref:
+    seq: 377
+    marker_id: KR3ed037_jc_377-d21.d2d3
+    span:
+    - body
+    - 2181
+    - 8008
+  label: 風癇附論
+  type: section
+  level: 3
+- ref:
+    seq: 377
+    marker_id: KR3ed037_jc_377-d21.d2d4
+    span:
+    - body
+    - 8008
+    - 8579
+  label: 風癇附論
+  type: section
+  level: 3
+- ref:
+    seq: 377
+    marker_id: KR3ed037_jc_377-d21.d2d5
+    span:
+    - body
+    - 8579
+    - 10873
+  label: 食癇附論
+  type: section
+  level: 3
+- ref:
+    seq: 377
+    marker_id: KR3ed037_jc_377-d21.d2d6
+    span:
+    - body
+    - 10873
+    - 12521
+  label: 熱癇附論
+  type: section
+  level: 3
+- ref:
+    seq: 378
+    marker_id: KR3ed037_jc_378-d22.h1s1
+    span:
+    - body
+    - 0
+    - 15996
+  label: 卷三百七十八
+  type: section
+  level: 1
+- ref:
+    seq: 378
+    marker_id: KR3ed037_jc_378-d22d2
+    span:
+    - body
+    - 6
+    - 15996
+  label: 嬰孩一切癇門
+  type: section
+  level: 2
+- ref:
+    seq: 378
+    marker_id: KR3ed037_jc_378-d22.d2d2
+    span:
+    - body
+    - 12
+    - 11728
+  label: 驚癇附論
+  type: section
+  level: 3
+- ref:
+    seq: 378
+    marker_id: KR3ed037_jc_378-d22.d2d3
+    span:
+    - body
+    - 11728
+    - 12878
+  label: 癇瘥復發附論
+  type: section
+  level: 3
+- ref:
+    seq: 378
+    marker_id: KR3ed037_jc_378-d22.d2d4
+    span:
+    - body
+    - 12878
+    - 13140
+  label: 癇瘥身面腫附論
+  type: section
+  level: 3
+- ref:
+    seq: 378
+    marker_id: KR3ed037_jc_378-d22.d2d5
+    span:
+    - body
+    - 13140
+    - 13618
+  label: 癇瘥不能語附論
+  type: section
+  level: 3
+- ref:
+    seq: 378
+    marker_id: KR3ed037_jc_378-d22.d2d6
+    span:
+    - body
+    - 13618
+    - 15996
+  label: 截癇法附論
+  type: section
+  level: 3
+- ref:
+    seq: 379
+    marker_id: KR3ed037_jc_379-d23.h1s1
+    span:
+    - body
+    - 0
+    - 17503
+  label: 卷三百七十九
+  type: section
+  level: 1
+- ref:
+    seq: 379
+    marker_id: KR3ed037_jc_379-d23d2
+    span:
+    - body
+    - 6
+    - 17503
+  label: 嬰孩諸疳門
+  type: section
+  level: 2
+- ref:
+    seq: 379
+    marker_id: KR3ed037_jc_379-d23.d2d2
+    span:
+    - body
+    - 11
+    - 3831
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 379
+    marker_id: KR3ed037_jc_379-d23.d2d3
+    span:
+    - body
+    - 3831
+    - 17503
+  label: 治小兒一切疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 380
+    marker_id: KR3ed037_jc_380-d24.h1s1
+    span:
+    - body
+    - 0
+    - 14558
+  label: 卷三百八十
+  type: section
+  level: 1
+- ref:
+    seq: 380
+    marker_id: KR3ed037_jc_380-d24d2
+    span:
+    - body
+    - 5
+    - 14558
+  label: 嬰孩諸疳門
+  type: section
+  level: 2
+- ref:
+    seq: 380
+    marker_id: KR3ed037_jc_380-d24.d2d2
+    span:
+    - body
+    - 10
+    - 11416
+  label: 治小兒一切疳
+  type: section
+  level: 3
+- ref:
+    seq: 380
+    marker_id: KR3ed037_jc_380-d24.d2d3
+    span:
+    - body
+    - 11416
+    - 14558
+  label: 二十四候
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.h1s1
+    span:
+    - body
+    - 0
+    - 18158
+  label: 卷三百八十一
+  type: section
+  level: 1
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25d2
+    span:
+    - body
+    - 6
+    - 18158
+  label: 嬰孩諸疳門
+  type: section
+  level: 2
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d2
+    span:
+    - body
+    - 11
+    - 6257
+  label: 急疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d3
+    span:
+    - body
+    - 6257
+    - 8044
+  label: 腦疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d4
+    span:
+    - body
+    - 8044
+    - 10922
+  label: 口齒疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d5
+    span:
+    - body
+    - 10922
+    - 12159
+  label: 疳瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d6
+    span:
+    - body
+    - 12159
+    - 13149
+  label: 奶疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d7
+    span:
+    - body
+    - 13149
+    - 13955
+  label: 內疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d8
+    span:
+    - body
+    - 13955
+    - 15435
+  label: 眼疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d9
+    span:
+    - body
+    - 15435
+    - 16960
+  label: 鼻疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 381
+    marker_id: KR3ed037_jc_381-d25.d2d10
+    span:
+    - body
+    - 16960
+    - 18158
+  label: 食疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26.h1s1
+    span:
+    - body
+    - 0
+    - 13521
+  label: 卷三百八十二
+  type: section
+  level: 1
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26d2
+    span:
+    - body
+    - 6
+    - 13521
+  label: 嬰孩諸疳門
+  type: section
+  level: 2
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26.d2d2
+    span:
+    - body
+    - 11
+    - 1798
+  label: 氣疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26.d2d3
+    span:
+    - body
+    - 1798
+    - 3531
+  label: 風疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26.d2d4
+    span:
+    - body
+    - 3531
+    - 7756
+  label: 驚疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26.d2d5
+    span:
+    - body
+    - 7756
+    - 9178
+  label: 脊疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26.d2d6
+    span:
+    - body
+    - 9178
+    - 10487
+  label: 蛔疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26.d2d7
+    span:
+    - body
+    - 10487
+    - 12879
+  label: 乾疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 382
+    marker_id: KR3ed037_jc_382-d26.d2d8
+    span:
+    - body
+    - 12879
+    - 13521
+  label: 漏疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 383
+    marker_id: KR3ed037_jc_383-d27.h1s1
+    span:
+    - body
+    - 0
+    - 14033
+  label: 卷三百八十三
+  type: section
+  level: 1
+- ref:
+    seq: 383
+    marker_id: KR3ed037_jc_383-d27d2
+    span:
+    - body
+    - 6
+    - 14033
+  label: 嬰孩諸疳門
+  type: section
+  level: 2
+- ref:
+    seq: 383
+    marker_id: KR3ed037_jc_383-d27.d2d2
+    span:
+    - body
+    - 11
+    - 2485
+  label: 疳瀉附論
+  type: section
+  level: 3
+- ref:
+    seq: 383
+    marker_id: KR3ed037_jc_383-d27.d2d3
+    span:
+    - body
+    - 2485
+    - 5075
+  label: 疳渴不止附論
+  type: section
+  level: 3
+- ref:
+    seq: 383
+    marker_id: KR3ed037_jc_383-d27.d2d4
+    span:
+    - body
+    - 5075
+    - 9122
+  label: 無辜疳附論
+  type: section
+  level: 3
+- ref:
+    seq: 383
+    marker_id: KR3ed037_jc_383-d27.d2d5
+    span:
+    - body
+    - 9122
+    - 10797
+  label: 疳䘌附論
+  type: section
+  level: 3
+- ref:
+    seq: 383
+    marker_id: KR3ed037_jc_383-d27.d2d6
+    span:
+    - body
+    - 10797
+    - 14033
+  label: 五疳出蟲附論
+  type: section
+  level: 3
+- ref:
+    seq: 384
+    marker_id: KR3ed037_jc_384-d28.h1s1
+    span:
+    - body
+    - 0
+    - 23657
+  label: 卷三百八十四
+  type: section
+  level: 1
+- ref:
+    seq: 384
+    marker_id: KR3ed037_jc_384-d28d2
+    span:
+    - body
+    - 6
+    - 23657
+  label: 嬰孩諸熱疸腫門
+  type: section
+  level: 2
+- ref:
+    seq: 384
+    marker_id: KR3ed037_jc_384-d28.d2d2
+    span:
+    - body
+    - 13
+    - 12090
+  label: 諸熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 384
+    marker_id: KR3ed037_jc_384-d28.d2d3
+    span:
+    - body
+    - 12090
+    - 13417
+  label: 心熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 384
+    marker_id: KR3ed037_jc_384-d28.d2d4
+    span:
+    - body
+    - 13417
+    - 19675
+  label: 驚熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 384
+    marker_id: KR3ed037_jc_384-d28.d2d5
+    span:
+    - body
+    - 19675
+    - 20874
+  label: 胃熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 384
+    marker_id: KR3ed037_jc_384-d28.d2d6
+    span:
+    - body
+    - 20874
+    - 23657
+  label: 骨熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 385
+    marker_id: KR3ed037_jc_385-d29.h1s1
+    span:
+    - body
+    - 0
+    - 13993
+  label: 卷三百八十五
+  type: section
+  level: 1
+- ref:
+    seq: 385
+    marker_id: KR3ed037_jc_385-d29d2
+    span:
+    - body
+    - 6
+    - 13993
+  label: 嬰孩諸熱疸腫門
+  type: section
+  level: 2
+- ref:
+    seq: 385
+    marker_id: KR3ed037_jc_385-d29.d2d2
+    span:
+    - body
+    - 13
+    - 4190
+  label: 風熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 385
+    marker_id: KR3ed037_jc_385-d29.d2d3
+    span:
+    - body
+    - 4190
+    - 7961
+  label: 壯熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 385
+    marker_id: KR3ed037_jc_385-d29.d2d4
+    span:
+    - body
+    - 7961
+    - 10349
+  label: 溫壯附論
+  type: section
+  level: 3
+- ref:
+    seq: 385
+    marker_id: KR3ed037_jc_385-d29.d2d5
+    span:
+    - body
+    - 10349
+    - 10853
+  label: 煩熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 385
+    marker_id: KR3ed037_jc_385-d29.d2d6
+    span:
+    - body
+    - 10853
+    - 13993
+  label: 潮熱附論
+  type: section
+  level: 3
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30.h1s1
+    span:
+    - body
+    - 0
+    - 14055
+  label: 卷三百八十六
+  type: section
+  level: 1
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30d2
+    span:
+    - body
+    - 6
+    - 14055
+  label: 嬰孩諸熱疸腫門
+  type: section
+  level: 2
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30.d2d2
+    span:
+    - body
+    - 13
+    - 741
+  label: 熱渴附論
+  type: section
+  level: 3
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30.d2d3
+    span:
+    - body
+    - 741
+    - 2334
+  label: 寒熱往來羸瘦附論
+  type: section
+  level: 3
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30.d2d4
+    span:
+    - body
+    - 2334
+    - 2961
+  label: 寒熱結實附論
+  type: section
+  level: 3
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30.d2d5
+    span:
+    - body
+    - 2961
+    - 3887
+  label: 冷熱不調附論
+  type: section
+  level: 3
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30.d2d6
+    span:
+    - body
+    - 3887
+    - 5976
+  label: 黃疸病附論
+  type: section
+  level: 3
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30.d2d7
+    span:
+    - body
+    - 5976
+    - 11992
+  label: 諸腫附論
+  type: section
+  level: 3
+- ref:
+    seq: 386
+    marker_id: KR3ed037_jc_386-d30.d2d8
+    span:
+    - body
+    - 11992
+    - 14055
+  label: 水腫附論
+  type: section
+  level: 3
+- ref:
+    seq: 387
+    marker_id: KR3ed037_jc_387-d31.h1s1
+    span:
+    - body
+    - 0
+    - 20826
+  label: 卷三百八十七
+  type: section
+  level: 1
+- ref:
+    seq: 387
+    marker_id: KR3ed037_jc_387-d31d2
+    span:
+    - body
+    - 6
+    - 20826
+  label: 嬰孩咳嗽喘門
+  type: section
+  level: 2
+- ref:
+    seq: 387
+    marker_id: KR3ed037_jc_387-d31.d2d2
+    span:
+    - body
+    - 12
+    - 1030
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 387
+    marker_id: KR3ed037_jc_387-d31.d2d3
+    span:
+    - body
+    - 1030
+    - 7585
+  label: 咳嗽附論
+  type: section
+  level: 3
+- ref:
+    seq: 387
+    marker_id: KR3ed037_jc_387-d31.d2d4
+    span:
+    - body
+    - 7585
+    - 14049
+  label: 咳逆上氣附論
+  type: section
+  level: 3
+- ref:
+    seq: 387
+    marker_id: KR3ed037_jc_387-d31.d2d5
+    span:
+    - body
+    - 14049
+    - 15850
+  label: 咳嗽咽喉作呀呷聲附論
+  type: section
+  level: 3
+- ref:
+    seq: 387
+    marker_id: KR3ed037_jc_387-d31.d2d6
+    span:
+    - body
+    - 15850
+    - 19351
+  label: 痰實附論
+  type: section
+  level: 3
+- ref:
+    seq: 387
+    marker_id: KR3ed037_jc_387-d31.d2d7
+    span:
+    - body
+    - 19351
+    - 20826
+  label: 喘附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.h1s1
+    span:
+    - body
+    - 0
+    - 14522
+  label: 卷三百八十八
+  type: section
+  level: 1
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32d2
+    span:
+    - body
+    - 6
+    - 14522
+  label: 嬰孩大小便淋秘門
+  type: section
+  level: 2
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d2
+    span:
+    - body
+    - 14
+    - 3669
+  label: 淋秘附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d3
+    span:
+    - body
+    - 3669
+    - 4220
+  label: 石淋附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d4
+    span:
+    - body
+    - 4220
+    - 5014
+  label: 血淋附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d5
+    span:
+    - body
+    - 5014
+    - 6144
+  label: 遺尿附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d6
+    span:
+    - body
+    - 6144
+    - 6879
+  label: 尿血附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d7
+    span:
+    - body
+    - 6879
+    - 7181
+  label: 白濁附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d8
+    span:
+    - body
+    - 7181
+    - 7866
+  label: 小便赤澀附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d9
+    span:
+    - body
+    - 7866
+    - 10018
+  label: 小便不通附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d10
+    span:
+    - body
+    - 10018
+    - 11178
+  label: 秘結附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d11
+    span:
+    - body
+    - 11178
+    - 12826
+  label: 大便不通附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d12
+    span:
+    - body
+    - 12826
+    - 13945
+  label: 大便血附論
+  type: section
+  level: 3
+- ref:
+    seq: 388
+    marker_id: KR3ed037_jc_388-d32.d2d13
+    span:
+    - body
+    - 13945
+    - 14522
+  label: 大便青附論
+  type: section
+  level: 3
+- ref:
+    seq: 389
+    marker_id: KR3ed037_jc_389-d33.h1s1
+    span:
+    - body
+    - 0
+    - 4821
+  label: 卷三百八十九
+  type: section
+  level: 1
+- ref:
+    seq: 389
+    marker_id: KR3ed037_jc_389-d33d2
+    span:
+    - body
+    - 6
+    - 4821
+  label: 嬰孩諸血痔疾門
+  type: section
+  level: 2
+- ref:
+    seq: 389
+    marker_id: KR3ed037_jc_389-d33.d2d2
+    span:
+    - body
+    - 13
+    - 714
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 389
+    marker_id: KR3ed037_jc_389-d33.d2d3
+    span:
+    - body
+    - 714
+    - 1789
+  label: 吐血附論
+  type: section
+  level: 3
+- ref:
+    seq: 389
+    marker_id: KR3ed037_jc_389-d33.d2d4
+    span:
+    - body
+    - 1789
+    - 3512
+  label: 鼻衄附論
+  type: section
+  level: 3
+- ref:
+    seq: 389
+    marker_id: KR3ed037_jc_389-d33.d2d5
+    span:
+    - body
+    - 3512
+    - 3633
+  label: 九竅出血
+  type: section
+  level: 3
+- ref:
+    seq: 389
+    marker_id: KR3ed037_jc_389-d33.d2d6
+    span:
+    - body
+    - 3633
+    - 4821
+  label: 痔附論
+  type: section
+  level: 3
+- ref:
+    seq: 390
+    marker_id: KR3ed037_jc_390-d34.h1s1
+    span:
+    - body
+    - 0
+    - 15028
+  label: 卷三百九十
+  type: section
+  level: 1
+- ref:
+    seq: 390
+    marker_id: KR3ed037_jc_390-d34d2
+    span:
+    - body
+    - 5
+    - 15028
+  label: 嬰孩心腹痛等疾門
+  type: section
+  level: 2
+- ref:
+    seq: 390
+    marker_id: KR3ed037_jc_390-d34.d2d2
+    span:
+    - body
+    - 13
+    - 2692
+  label: 心腹痛附論
+  type: section
+  level: 3
+- ref:
+    seq: 390
+    marker_id: KR3ed037_jc_390-d34.d2d3
+    span:
+    - body
+    - 2692
+    - 9476
+  label: 瘧疾附論
+  type: section
+  level: 3
+- ref:
+    seq: 390
+    marker_id: KR3ed037_jc_390-d34.d2d4
+    span:
+    - body
+    - 9476
+    - 11224
+  label: 渴疾附論
+  type: section
+  level: 3
+- ref:
+    seq: 390
+    marker_id: KR3ed037_jc_390-d34.d2d5
+    span:
+    - body
+    - 11224
+    - 15028
+  label: 盜汗附論
+  type: section
+  level: 3
+- ref:
+    seq: 391
+    marker_id: KR3ed037_jc_391-d35.h1s1
+    span:
+    - body
+    - 0
+    - 16927
+  label: 卷三百九十一
+  type: section
+  level: 1
+- ref:
+    seq: 391
+    marker_id: KR3ed037_jc_391-d35d2
+    span:
+    - body
+    - 6
+    - 16927
+  label: 嬰孩癖積脹滿門
+  type: section
+  level: 2
+- ref:
+    seq: 391
+    marker_id: KR3ed037_jc_391-d35.d2d2
+    span:
+    - body
+    - 13
+    - 2654
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 391
+    marker_id: KR3ed037_jc_391-d35.d2d3
+    span:
+    - body
+    - 2654
+    - 11032
+  label: 諸癖結脹滿
+  type: section
+  level: 3
+- ref:
+    seq: 391
+    marker_id: KR3ed037_jc_391-d35.d2d4
+    span:
+    - body
+    - 11032
+    - 12238
+  label: 食症附論
+  type: section
+  level: 3
+- ref:
+    seq: 391
+    marker_id: KR3ed037_jc_391-d35.d2d5
+    span:
+    - body
+    - 12238
+    - 16927
+  label: 癖氣附論
+  type: section
+  level: 3
+- ref:
+    seq: 392
+    marker_id: KR3ed037_jc_392-d36.h1s1
+    span:
+    - body
+    - 0
+    - 21233
+  label: 卷三百九十二
+  type: section
+  level: 1
+- ref:
+    seq: 392
+    marker_id: KR3ed037_jc_392-d36d2
+    span:
+    - body
+    - 6
+    - 21233
+  label: 嬰孩癖積脹滿門
+  type: section
+  level: 2
+- ref:
+    seq: 392
+    marker_id: KR3ed037_jc_392-d36.d2d2
+    span:
+    - body
+    - 13
+    - 5153
+  label: 乳癖附論
+  type: section
+  level: 3
+- ref:
+    seq: 392
+    marker_id: KR3ed037_jc_392-d36.d2d3
+    span:
+    - body
+    - 5153
+    - 5962
+  label: 痃氣附論
+  type: section
+  level: 3
+- ref:
+    seq: 392
+    marker_id: KR3ed037_jc_392-d36.d2d4
+    span:
+    - body
+    - 5962
+    - 8493
+  label: 痞結附論
+  type: section
+  level: 3
+- ref:
+    seq: 392
+    marker_id: KR3ed037_jc_392-d36.d2d5
+    span:
+    - body
+    - 8493
+    - 20256
+  label: 積聚附論
+  type: section
+  level: 3
+- ref:
+    seq: 392
+    marker_id: KR3ed037_jc_392-d36.d2d6
+    span:
+    - body
+    - 20256
+    - 21233
+  label: 傷飽附論
+  type: section
+  level: 3
+- ref:
+    seq: 393
+    marker_id: KR3ed037_jc_393-d37.h1s1
+    span:
+    - body
+    - 0
+    - 20941
+  label: 卷三百九十三
+  type: section
+  level: 1
+- ref:
+    seq: 393
+    marker_id: KR3ed037_jc_393-d37d2
+    span:
+    - body
+    - 6
+    - 20941
+  label: 嬰孩癖積脹滿門
+  type: section
+  level: 2
+- ref:
+    seq: 393
+    marker_id: KR3ed037_jc_393-d37.d2d2
+    span:
+    - body
+    - 13
+    - 4971
+  label: 宿食不消附論
+  type: section
+  level: 3
+- ref:
+    seq: 393
+    marker_id: KR3ed037_jc_393-d37.d2d3
+    span:
+    - body
+    - 4971
+    - 8784
+  label: 腹脹附論
+  type: section
+  level: 3
+- ref:
+    seq: 393
+    marker_id: KR3ed037_jc_393-d37.d2d4
+    span:
+    - body
+    - 8784
+    - 12059
+  label: 丁奚腹大附論
+  type: section
+  level: 3
+- ref:
+    seq: 393
+    marker_id: KR3ed037_jc_393-d37.d2d5
+    span:
+    - body
+    - 12059
+    - 13509
+  label: 哺露附論
+  type: section
+  level: 3
+- ref:
+    seq: 393
+    marker_id: KR3ed037_jc_393-d37.d2d6
+    span:
+    - body
+    - 13509
+    - 20080
+  label: 脾胃不和附論
+  type: section
+  level: 3
+- ref:
+    seq: 393
+    marker_id: KR3ed037_jc_393-d37.d2d7
+    span:
+    - body
+    - 20080
+    - 20941
+  label: 羸瘦附論
+  type: section
+  level: 3
+- ref:
+    seq: 394
+    marker_id: KR3ed037_jc_394-d38.h1s1
+    span:
+    - body
+    - 0
+    - 18625
+  label: 卷三百九十四
+  type: section
+  level: 1
+- ref:
+    seq: 394
+    marker_id: KR3ed037_jc_394-d38d2
+    span:
+    - body
+    - 6
+    - 18625
+  label: 嬰孩吐瀉門
+  type: section
+  level: 2
+- ref:
+    seq: 394
+    marker_id: KR3ed037_jc_394-d38.d2d2
+    span:
+    - body
+    - 11
+    - 5052
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 394
+    marker_id: KR3ed037_jc_394-d38.d2d3
+    span:
+    - body
+    - 5052
+    - 7234
+  label: 吐哯附論
+  type: section
+  level: 3
+- ref:
+    seq: 394
+    marker_id: KR3ed037_jc_394-d38.d2d4
+    span:
+    - body
+    - 7234
+    - 8557
+  label: 噦逆附論
+  type: section
+  level: 3
+- ref:
+    seq: 394
+    marker_id: KR3ed037_jc_394-d38.d2d5
+    span:
+    - body
+    - 8557
+    - 18625
+  label: 嘔吐附論
+  type: section
+  level: 3
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.h1s1
+    span:
+    - body
+    - 0
+    - 25374
+  label: 卷三百九十五
+  type: section
+  level: 1
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39d2
+    span:
+    - body
+    - 6
+    - 25374
+  label: 嬰孩吐瀉門
+  type: section
+  level: 2
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.d2d2
+    span:
+    - body
+    - 11
+    - 929
+  label: 冷吐附論
+  type: section
+  level: 3
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.d2d3
+    span:
+    - body
+    - 929
+    - 2051
+  label: 熱吐附論
+  type: section
+  level: 3
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.d2d4
+    span:
+    - body
+    - 2051
+    - 2881
+  label: 夾驚吐附論
+  type: section
+  level: 3
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.d2d5
+    span:
+    - body
+    - 2881
+    - 3049
+  label: 毒氣吐附論
+  type: section
+  level: 3
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.d2d6
+    span:
+    - body
+    - 3049
+    - 18524
+  label: 吐利附論
+  type: section
+  level: 3
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.d2d7
+    span:
+    - body
+    - 18524
+    - 24252
+  label: 霍亂附論
+  type: section
+  level: 3
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.d2d8
+    span:
+    - body
+    - 24252
+    - 24793
+  label: 乾霍亂附論
+  type: section
+  level: 3
+- ref:
+    seq: 395
+    marker_id: KR3ed037_jc_395-d39.d2d9
+    span:
+    - body
+    - 24793
+    - 25374
+  label: 霍亂心腹痛附論
+  type: section
+  level: 3
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40.h1s1
+    span:
+    - body
+    - 0
+    - 13265
+  label: 卷三百九十六
+  type: section
+  level: 1
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40d2
+    span:
+    - body
+    - 6
+    - 13265
+  label: 嬰孩下痢門
+  type: section
+  level: 2
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40.d2d2
+    span:
+    - body
+    - 11
+    - 6533
+  label: 一切痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40.d2d3
+    span:
+    - body
+    - 6533
+    - 8100
+  label: 一切痢久不瘥附論
+  type: section
+  level: 3
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40.d2d4
+    span:
+    - body
+    - 8100
+    - 8620
+  label: 久痢羸瘦附論
+  type: section
+  level: 3
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40.d2d5
+    span:
+    - body
+    - 8620
+    - 9053
+  label: 暴痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40.d2d6
+    span:
+    - body
+    - 9053
+    - 9685
+  label: 胃風腹脹泄痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40.d2d7
+    span:
+    - body
+    - 9685
+    - 10016
+  label: 冷熱痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 396
+    marker_id: KR3ed037_jc_396-d40.d2d8
+    span:
+    - body
+    - 10016
+    - 13265
+  label: 冷痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 397
+    marker_id: KR3ed037_jc_397-d41.h1s1
+    span:
+    - body
+    - 0
+    - 13974
+  label: 卷三百九十七
+  type: section
+  level: 1
+- ref:
+    seq: 397
+    marker_id: KR3ed037_jc_397-d41d2
+    span:
+    - body
+    - 6
+    - 13974
+  label: 嬰孩下痢門
+  type: section
+  level: 2
+- ref:
+    seq: 397
+    marker_id: KR3ed037_jc_397-d41.d2d2
+    span:
+    - body
+    - 11
+    - 2648
+  label: 熱痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 397
+    marker_id: KR3ed037_jc_397-d41.d2d3
+    span:
+    - body
+    - 2648
+    - 8183
+  label: 赤白痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 397
+    marker_id: KR3ed037_jc_397-d41.d2d4
+    span:
+    - body
+    - 8183
+    - 9182
+  label: 久赤白痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 397
+    marker_id: KR3ed037_jc_397-d41.d2d5
+    span:
+    - body
+    - 9182
+    - 9624
+  label: 瀼痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 397
+    marker_id: KR3ed037_jc_397-d41.d2d6
+    span:
+    - body
+    - 9624
+    - 12030
+  label: 血痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 397
+    marker_id: KR3ed037_jc_397-d41.d2d7
+    span:
+    - body
+    - 12030
+    - 13974
+  label: 膿血痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.h1s1
+    span:
+    - body
+    - 0
+    - 21373
+  label: 卷三百九十八
+  type: section
+  level: 1
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42d2
+    span:
+    - body
+    - 6
+    - 21373
+  label: 嬰孩下痢門
+  type: section
+  level: 2
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d2
+    span:
+    - body
+    - 11
+    - 7418
+  label: 疳痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d3
+    span:
+    - body
+    - 7418
+    - 8126
+  label: 無辜疳痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d4
+    span:
+    - body
+    - 8126
+    - 10589
+  label: 疳痢久不瘥附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d5
+    span:
+    - body
+    - 10589
+    - 11052
+  label: 疳痢腹脹附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d6
+    span:
+    - body
+    - 11052
+    - 11582
+  label: 疳痢下部濕䘌附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d7
+    span:
+    - body
+    - 11582
+    - 12252
+  label: 蠱毒痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d8
+    span:
+    - body
+    - 12252
+    - 15182
+  label: 洞泄注下附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d9
+    span:
+    - body
+    - 15182
+    - 15775
+  label: 水穀痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d10
+    span:
+    - body
+    - 15775
+    - 16120
+  label: 噤口痢附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d11
+    span:
+    - body
+    - 16120
+    - 18626
+  label: 下痢煩渴附論
+  type: section
+  level: 3
+- ref:
+    seq: 398
+    marker_id: KR3ed037_jc_398-d42.d2d12
+    span:
+    - body
+    - 18626
+    - 21373
+  label: 脫肛附論
+  type: section
+  level: 3
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.h1s1
+    span:
+    - body
+    - 0
+    - 15157
+  label: 卷三百九十九
+  type: section
+  level: 1
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43d2
+    span:
+    - body
+    - 6
+    - 15157
+  label: 嬰孩諸疝諸蟲
+  type: section
+  level: 2
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.d2d2
+    span:
+    - body
+    - 12
+    - 2124
+  label: 諸疝附論
+  type: section
+  level: 3
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.d2d3
+    span:
+    - body
+    - 2124
+    - 4354
+  label: 陰腫附論
+  type: section
+  level: 3
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.d2d4
+    span:
+    - body
+    - 4354
+    - 5071
+  label: 偏㿗附論
+  type: section
+  level: 3
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.d2d5
+    span:
+    - body
+    - 5071
+    - 6448
+  label: 㿗疝附論
+  type: section
+  level: 3
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.d2d6
+    span:
+    - body
+    - 6448
+    - 11526
+  label: 諸蟲附論
+  type: section
+  level: 3
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.d2d7
+    span:
+    - body
+    - 11526
+    - 14067
+  label: 蛔蟲附論
+  type: section
+  level: 3
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.d2d8
+    span:
+    - body
+    - 14067
+    - 14489
+  label: 蟯蟲附論
+  type: section
+  level: 3
+- ref:
+    seq: 399
+    marker_id: KR3ed037_jc_399-d43.d2d9
+    span:
+    - body
+    - 14489
+    - 15157
+  label: 寸白蟲附論
+  type: section
+  level: 3
+- ref:
+    seq: 400
+    marker_id: KR3ed037_jc_400-d44.h1s1
+    span:
+    - body
+    - 0
+    - 9912
+  label: 卷四百
+  type: section
+  level: 1
+- ref:
+    seq: 400
+    marker_id: KR3ed037_jc_400-d44d2
+    span:
+    - body
+    - 3
+    - 9912
+  label: 嬰孩雜病門
+  type: section
+  level: 2
+- ref:
+    seq: 400
+    marker_id: KR3ed037_jc_400-d44.d2d2
+    span:
+    - body
+    - 8
+    - 4782
+  label: 雜病附論
+  type: section
+  level: 3
+- ref:
+    seq: 400
+    marker_id: KR3ed037_jc_400-d44.d2d3
+    span:
+    - body
+    - 4782
+    - 5604
+  label: 魃病附論
+  type: section
+  level: 3
+- ref:
+    seq: 400
+    marker_id: KR3ed037_jc_400-d44.d2d4
+    span:
+    - body
+    - 5604
+    - 6188
+  label: 白虎病附論
+  type: section
+  level: 3
+- ref:
+    seq: 400
+    marker_id: KR3ed037_jc_400-d44.d2d5
+    span:
+    - body
+    - 6188
+    - 8025
+  label: 屍注附論
+  type: section
+  level: 3
+- ref:
+    seq: 400
+    marker_id: KR3ed037_jc_400-d44.d2d6
+    span:
+    - body
+    - 8025
+    - 8831
+  label: 中蠱附論
+  type: section
+  level: 3
+- ref:
+    seq: 400
+    marker_id: KR3ed037_jc_400-d44.d2d7
+    span:
+    - body
+    - 8831
+    - 9912
+  label: 中惡附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.h1s1
+    span:
+    - body
+    - 0
+    - 11494
+  label: 卷四百一
+  type: section
+  level: 1
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45d2
+    span:
+    - body
+    - 4
+    - 11494
+  label: 嬰孩雜病門
+  type: section
+  level: 2
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d2
+    span:
+    - body
+    - 9
+    - 3585
+  label: 客忤附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d3
+    span:
+    - body
+    - 3585
+    - 3746
+  label: 中馬毒附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d4
+    span:
+    - body
+    - 3746
+    - 4207
+  label: 卒死附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d5
+    span:
+    - body
+    - 4207
+    - 4536
+  label: 卒腹皮青黑附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d6
+    span:
+    - body
+    - 4536
+    - 5757
+  label: 五硬五軟附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d7
+    span:
+    - body
+    - 5757
+    - 6143
+  label: 手拳不展附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d8
+    span:
+    - body
+    - 6143
+    - 6460
+  label: 腳拳不展附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d9
+    span:
+    - body
+    - 6460
+    - 7313
+  label: 行遲附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d10
+    span:
+    - body
+    - 7313
+    - 7583
+  label: 鶴節附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d11
+    span:
+    - body
+    - 7583
+    - 8503
+  label: 龜背龜胸附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d12
+    span:
+    - body
+    - 8503
+    - 9506
+  label: 誤吞諸物附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d13
+    span:
+    - body
+    - 9506
+    - 10587
+  label: 食治諸病附論
+  type: section
+  level: 3
+- ref:
+    seq: 401
+    marker_id: KR3ed037_jc_401-d45.d2d14
+    span:
+    - body
+    - 10587
+    - 11494
+  label: 落床損瘀附論
+  type: section
+  level: 3
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46.h1s1
+    span:
+    - body
+    - 0
+    - 22403
+  label: 卷四百二
+  type: section
+  level: 1
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46d2
+    span:
+    - body
+    - 4
+    - 22403
+  label: 嬰孩痘疹門
+  type: section
+  level: 2
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46.d2d2
+    span:
+    - body
+    - 9
+    - 4292
+  label: 總論
+  type: section
+  level: 3
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46.d2d3
+    span:
+    - body
+    - 4292
+    - 5219
+  label: 治瘡痘法十二事
+  type: section
+  level: 3
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46.d2d4
+    span:
+    - body
+    - 5219
+    - 5522
+  label: 瘡痘避忌者十
+  type: section
+  level: 3
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46.d2d5
+    span:
+    - body
+    - 5522
+    - 5976
+  label: 瘡痘可畏者十
+  type: section
+  level: 3
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46.d2d6
+    span:
+    - body
+    - 5976
+    - 6184
+  label: 論瘡痘約日訣
+  type: section
+  level: 3
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46.d2d7
+    span:
+    - body
+    - 6184
+    - 19299
+  label: 辨瘡疹諸證
+  type: section
+  level: 3
+- ref:
+    seq: 402
+    marker_id: KR3ed037_jc_402-d46.d2d8
+    span:
+    - body
+    - 19299
+    - 22403
+  label: 辨認痘疹斑瘡丹毒證治不同醫者詳察
+  type: section
+  level: 3
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47.h1s1
+    span:
+    - body
+    - 0
+    - 19992
+  label: 卷四百三
+  type: section
+  level: 1
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47d2
+    span:
+    - body
+    - 4
+    - 19992
+  label: 嬰孩痘疹門
+  type: section
+  level: 2
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47.d2d2
+    span:
+    - body
+    - 9
+    - 6924
+  label: 一切痘疹附論
+  type: section
+  level: 3
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47.d2d3
+    span:
+    - body
+    - 6924
+    - 8871
+  label: 瘡疹已出未出附論
+  type: section
+  level: 3
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47.d2d4
+    span:
+    - body
+    - 8871
+    - 10964
+  label: 痘瘡未見方可疏利附論
+  type: section
+  level: 3
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47.d2d5
+    span:
+    - body
+    - 10964
+    - 15298
+  label: 瘡疹出不快附論
+  type: section
+  level: 3
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47.d2d6
+    span:
+    - body
+    - 15298
+    - 16883
+  label: 痘瘡未見方可表發附論
+  type: section
+  level: 3
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47.d2d7
+    span:
+    - body
+    - 16883
+    - 18788
+  label: 瘡疹壯熱煩渴附論
+  type: section
+  level: 3
+- ref:
+    seq: 403
+    marker_id: KR3ed037_jc_403-d47.d2d8
+    span:
+    - body
+    - 18788
+    - 19992
+  label: 瘡疹大盛附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.h1s1
+    span:
+    - body
+    - 0
+    - 16819
+  label: 卷四百四
+  type: section
+  level: 1
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48d2
+    span:
+    - body
+    - 4
+    - 16819
+  label: 嬰孩痘疹門
+  type: section
+  level: 2
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d2
+    span:
+    - body
+    - 9
+    - 607
+  label: 瘡疹大小便不通附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d3
+    span:
+    - body
+    - 607
+    - 4566
+  label: 瘡疹倒靨附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d4
+    span:
+    - body
+    - 4566
+    - 5714
+  label: 瘡疹發斑附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d5
+    span:
+    - body
+    - 5714
+    - 6795
+  label: 瘡痘攻咽喉附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d6
+    span:
+    - body
+    - 6795
+    - 7479
+  label: 瘡疹吐利附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d7
+    span:
+    - body
+    - 7479
+    - 12953
+  label: 瘡疹入眼附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d8
+    span:
+    - body
+    - 12953
+    - 13297
+  label: 瘡疹便膿血附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d9
+    span:
+    - body
+    - 13297
+    - 15505
+  label: 瘡疹後解餘毒附論
+  type: section
+  level: 3
+- ref:
+    seq: 404
+    marker_id: KR3ed037_jc_404-d48.d2d10
+    span:
+    - body
+    - 15505
+    - 16819
+  label: 瘡疹後滅瘢痕附論
+  type: section
+  level: 3
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.h1s1
+    span:
+    - body
+    - 0
+    - 12834
+  label: 卷四百五
+  type: section
+  level: 1
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49d2
+    span:
+    - body
+    - 4
+    - 12834
+  label: 嬰孩諸瘡腫毒門
+  type: section
+  level: 2
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.d2d2
+    span:
+    - body
+    - 11
+    - 2780
+  label: 癰疽附論
+  type: section
+  level: 3
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.d2d3
+    span:
+    - body
+    - 2780
+    - 4276
+  label: 癰瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.d2d4
+    span:
+    - body
+    - 4276
+    - 5323
+  label: 毒腫附論
+  type: section
+  level: 3
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.d2d5
+    span:
+    - body
+    - 5323
+    - 6524
+  label: 癤附論
+  type: section
+  level: 3
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.d2d6
+    span:
+    - body
+    - 6524
+    - 9175
+  label: 瘰癧附論
+  type: section
+  level: 3
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.d2d7
+    span:
+    - body
+    - 9175
+    - 9672
+  label: 惡核附論
+  type: section
+  level: 3
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.d2d8
+    span:
+    - body
+    - 9672
+    - 10665
+  label: 癭氣附論
+  type: section
+  level: 3
+- ref:
+    seq: 405
+    marker_id: KR3ed037_jc_405-d49.d2d9
+    span:
+    - body
+    - 10665
+    - 12834
+  label: 風瘙癮疹附論
+  type: section
+  level: 3
+- ref:
+    seq: 406
+    marker_id: KR3ed037_jc_406-d50.h1s1
+    span:
+    - body
+    - 0
+    - 11172
+  label: 卷四百六
+  type: section
+  level: 1
+- ref:
+    seq: 406
+    marker_id: KR3ed037_jc_406-d50d2
+    span:
+    - body
+    - 4
+    - 11172
+  label: 嬰孩諸瘡腫毒門
+  type: section
+  level: 2
+- ref:
+    seq: 406
+    marker_id: KR3ed037_jc_406-d50.d2d2
+    span:
+    - body
+    - 11
+    - 9349
+  label: 五色丹毒附論
+  type: section
+  level: 3
+- ref:
+    seq: 406
+    marker_id: KR3ed037_jc_406-d50.d2d3
+    span:
+    - body
+    - 9349
+    - 11172
+  label: 遊腫赤痛附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.h1s1
+    span:
+    - body
+    - 0
+    - 10781
+  label: 卷四百七
+  type: section
+  level: 1
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51d2
+    span:
+    - body
+    - 4
+    - 10781
+  label: 嬰孩諸瘡腫毒門
+  type: section
+  level: 2
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d2
+    span:
+    - body
+    - 11
+    - 721
+  label: 赤瘤附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d3
+    span:
+    - body
+    - 721
+    - 1164
+  label: 身有赤處附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d4
+    span:
+    - body
+    - 1164
+    - 1623
+  label: 熛瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d5
+    span:
+    - body
+    - 1623
+    - 2729
+  label: 疥附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d6
+    span:
+    - body
+    - 2729
+    - 4220
+  label: 癬附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d7
+    span:
+    - body
+    - 4220
+    - 5091
+  label: 月蝕瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d8
+    span:
+    - body
+    - 5091
+    - 5891
+  label: 熱瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d9
+    span:
+    - body
+    - 5891
+    - 6347
+  label: 臍中瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d10
+    span:
+    - body
+    - 6347
+    - 7125
+  label: 凍爛瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d11
+    span:
+    - body
+    - 7125
+    - 7629
+  label: 陰瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d12
+    span:
+    - body
+    - 7629
+    - 9538
+  label: 惡瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d13
+    span:
+    - body
+    - 9538
+    - 9858
+  label: 魚臍瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d14
+    span:
+    - body
+    - 9858
+    - 10210
+  label: 浸淫瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 407
+    marker_id: KR3ed037_jc_407-d51.d2d15
+    span:
+    - body
+    - 10210
+    - 10781
+  label: 漆瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.h1s1
+    span:
+    - body
+    - 0
+    - 10242
+  label: 卷四百八
+  type: section
+  level: 1
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52d2
+    span:
+    - body
+    - 4
+    - 10242
+  label: 嬰孩諸瘡腫毒門
+  type: section
+  level: 2
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d2
+    span:
+    - body
+    - 11
+    - 344
+  label: 王爛瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d3
+    span:
+    - body
+    - 344
+    - 2238
+  label: 頭面身體生瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d4
+    span:
+    - body
+    - 2238
+    - 2556
+  label: 蠼螋繞腰腹成瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d5
+    span:
+    - body
+    - 2556
+    - 2807
+  label: 代指附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d6
+    span:
+    - body
+    - 2807
+    - 3158
+  label: 疿瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d7
+    span:
+    - body
+    - 3158
+    - 4224
+  label: 湯火瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d8
+    span:
+    - body
+    - 4224
+    - 4586
+  label: 瘑瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d9
+    span:
+    - body
+    - 4586
+    - 5697
+  label: 白禿瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d10
+    span:
+    - body
+    - 5697
+    - 6458
+  label: 瘻瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d11
+    span:
+    - body
+    - 6458
+    - 6928
+  label: 疣目瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d12
+    span:
+    - body
+    - 6928
+    - 9367
+  label: 諸瘡附論
+  type: section
+  level: 3
+- ref:
+    seq: 408
+    marker_id: KR3ed037_jc_408-d52.d2d13
+    span:
+    - body
+    - 9367
+    - 10242
+  label: 諸蟲咬傷
+  type: section
+  level: 3
+hash: sha256:4d924e101dedaef7ca8389ac8639e8380bb4ebcf10080d28841568f066318ca4
